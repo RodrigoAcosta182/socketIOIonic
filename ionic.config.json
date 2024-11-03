@@ -1,0 +1,7 @@
+{
+  "name": "socketiofront",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
